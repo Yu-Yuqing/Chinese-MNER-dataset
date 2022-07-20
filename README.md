@@ -2,7 +2,7 @@
 
 This dataset contains two hundred annotated texts of Chinese mineral named entities.
 
-The Original folder contains the original mineral field documents.
+The Original folder contains 200 raw mineral field documents.
 
 |Tags|Type|Number|
 | ----- | --------- | ----------- | 
