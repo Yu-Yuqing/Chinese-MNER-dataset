@@ -13,4 +13,3 @@ The Original folder contains 200 raw mineral field documents.
 |GO|Geologic Occurrence|571|
 |MA|Minera Alteration|2429|
 |WD|Weathering Degree|87|
-test
